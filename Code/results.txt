@@ -1,0 +1,237 @@
+
+--------------- Root Directory ---------------
+C:\Users\Dimitris\Documents\Master\Machine Learning\ML_Project_03\pu_corpora_public
+
+Φάκελος προς έλεγχο: pu1
+
+Training Set: ['part10', 'part2', 'part3', 'part4', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part1
+Testing στον Φάκελο: part1,
+total_test_spam_doc: 48, ident_spam: 50, cor_ident_spam: 48
+
+Training Set: ['part1', 'part2', 'part3', 'part4', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part10
+Testing στον Φάκελο: part10,
+total_test_spam_doc: 48, ident_spam: 49, cor_ident_spam: 47
+
+Training Set: ['part1', 'part10', 'part3', 'part4', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part2
+Testing στον Φάκελο: part2,
+total_test_spam_doc: 48, ident_spam: 52, cor_ident_spam: 48
+
+Training Set: ['part1', 'part10', 'part2', 'part4', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part3
+Testing στον Φάκελο: part3,
+total_test_spam_doc: 48, ident_spam: 48, cor_ident_spam: 46
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part4
+Testing στον Φάκελο: part4,
+total_test_spam_doc: 48, ident_spam: 53, cor_ident_spam: 47
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part6', 'part7', 'part8', 'part9']
+Test Set: part5
+Testing στον Φάκελο: part5,
+total_test_spam_doc: 48, ident_spam: 51, cor_ident_spam: 46
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part5', 'part7', 'part8', 'part9']
+Test Set: part6
+Testing στον Φάκελο: part6,
+total_test_spam_doc: 48, ident_spam: 50, cor_ident_spam: 46
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part5', 'part6', 'part8', 'part9']
+Test Set: part7
+Testing στον Φάκελο: part7,
+total_test_spam_doc: 48, ident_spam: 51, cor_ident_spam: 47
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part5', 'part6', 'part7', 'part9']
+Test Set: part8
+Testing στον Φάκελο: part8,
+total_test_spam_doc: 48, ident_spam: 51, cor_ident_spam: 47
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part5', 'part6', 'part7', 'part8']
+Test Set: part9
+Testing στον Φάκελο: part9,
+total_test_spam_doc: 48, ident_spam: 52, cor_ident_spam: 47
+
+----------------------------------------------
+Για τον Φάκελο: pu1
+Spam_recall: 97.71
+Spam_precision: 92.56
+
+----------------------------------------------
+Φάκελος προς έλεγχο: pu2
+
+Training Set: ['part10', 'part2', 'part3', 'part4', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part1
+Testing στον Φάκελο: part1,
+total_test_spam_doc: 14, ident_spam: 14, cor_ident_spam: 12
+
+Training Set: ['part1', 'part2', 'part3', 'part4', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part10
+Testing στον Φάκελο: part10,
+total_test_spam_doc: 14, ident_spam: 15, cor_ident_spam: 14
+
+Training Set: ['part1', 'part10', 'part3', 'part4', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part2
+Testing στον Φάκελο: part2,
+total_test_spam_doc: 14, ident_spam: 17, cor_ident_spam: 13
+
+Training Set: ['part1', 'part10', 'part2', 'part4', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part3
+Testing στον Φάκελο: part3,
+total_test_spam_doc: 14, ident_spam: 13, cor_ident_spam: 12
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part4
+Testing στον Φάκελο: part4,
+total_test_spam_doc: 14, ident_spam: 16, cor_ident_spam: 14
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part6', 'part7', 'part8', 'part9']
+Test Set: part5
+Testing στον Φάκελο: part5,
+total_test_spam_doc: 14, ident_spam: 25, cor_ident_spam: 13
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part5', 'part7', 'part8', 'part9']
+Test Set: part6
+Testing στον Φάκελο: part6,
+total_test_spam_doc: 14, ident_spam: 18, cor_ident_spam: 13
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part5', 'part6', 'part8', 'part9']
+Test Set: part7
+Testing στον Φάκελο: part7,
+total_test_spam_doc: 14, ident_spam: 13, cor_ident_spam: 12
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part5', 'part6', 'part7', 'part9']
+Test Set: part8
+Testing στον Φάκελο: part8,
+total_test_spam_doc: 14, ident_spam: 14, cor_ident_spam: 13
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part5', 'part6', 'part7', 'part8']
+Test Set: part9
+Testing στον Φάκελο: part9,
+total_test_spam_doc: 14, ident_spam: 14, cor_ident_spam: 11
+
+----------------------------------------------
+Για τον Φάκελο: pu2
+Spam_recall: 90.71
+Spam_precision: 82.33
+
+----------------------------------------------
+Φάκελος προς έλεγχο: pu3
+
+Training Set: ['part10', 'part2', 'part3', 'part4', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part1
+Testing στον Φάκελο: part1,
+total_test_spam_doc: 182, ident_spam: 198, cor_ident_spam: 179
+
+Training Set: ['part1', 'part2', 'part3', 'part4', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part10
+Testing στον Φάκελο: part10,
+total_test_spam_doc: 182, ident_spam: 210, cor_ident_spam: 177
+
+Training Set: ['part1', 'part10', 'part3', 'part4', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part2
+Testing στον Φάκελο: part2,
+total_test_spam_doc: 182, ident_spam: 185, cor_ident_spam: 176
+
+Training Set: ['part1', 'part10', 'part2', 'part4', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part3
+Testing στον Φάκελο: part3,
+total_test_spam_doc: 182, ident_spam: 203, cor_ident_spam: 175
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part4
+Testing στον Φάκελο: part4,
+total_test_spam_doc: 182, ident_spam: 213, cor_ident_spam: 179
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part6', 'part7', 'part8', 'part9']
+Test Set: part5
+Testing στον Φάκελο: part5,
+total_test_spam_doc: 182, ident_spam: 190, cor_ident_spam: 170
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part5', 'part7', 'part8', 'part9']
+Test Set: part6
+Testing στον Φάκελο: part6,
+total_test_spam_doc: 182, ident_spam: 201, cor_ident_spam: 181
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part5', 'part6', 'part8', 'part9']
+Test Set: part7
+Testing στον Φάκελο: part7,
+total_test_spam_doc: 182, ident_spam: 185, cor_ident_spam: 179
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part5', 'part6', 'part7', 'part9']
+Test Set: part8
+Testing στον Φάκελο: part8,
+total_test_spam_doc: 182, ident_spam: 200, cor_ident_spam: 173
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part5', 'part6', 'part7', 'part8']
+Test Set: part9
+Testing στον Φάκελο: part9,
+total_test_spam_doc: 182, ident_spam: 214, cor_ident_spam: 182
+
+----------------------------------------------
+Για τον Φάκελο: pu3
+Spam_recall: 97.31
+Spam_precision: 88.79
+
+----------------------------------------------
+Φάκελος προς έλεγχο: pua
+
+Training Set: ['part10', 'part2', 'part3', 'part4', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part1
+Testing στον Φάκελο: part1,
+total_test_spam_doc: 57, ident_spam: 57, cor_ident_spam: 55
+
+Training Set: ['part1', 'part2', 'part3', 'part4', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part10
+Testing στον Φάκελο: part10,
+total_test_spam_doc: 57, ident_spam: 59, cor_ident_spam: 54
+
+Training Set: ['part1', 'part10', 'part3', 'part4', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part2
+Testing στον Φάκελο: part2,
+total_test_spam_doc: 57, ident_spam: 58, cor_ident_spam: 57
+
+Training Set: ['part1', 'part10', 'part2', 'part4', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part3
+Testing στον Φάκελο: part3,
+total_test_spam_doc: 57, ident_spam: 54, cor_ident_spam: 54
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part5', 'part6', 'part7', 'part8', 'part9']
+Test Set: part4
+Testing στον Φάκελο: part4,
+total_test_spam_doc: 57, ident_spam: 51, cor_ident_spam: 49
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part6', 'part7', 'part8', 'part9']
+Test Set: part5
+Testing στον Φάκελο: part5,
+total_test_spam_doc: 57, ident_spam: 54, cor_ident_spam: 54
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part5', 'part7', 'part8', 'part9']
+Test Set: part6
+Testing στον Φάκελο: part6,
+total_test_spam_doc: 57, ident_spam: 52, cor_ident_spam: 52
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part5', 'part6', 'part8', 'part9']
+Test Set: part7
+Testing στον Φάκελο: part7,
+total_test_spam_doc: 57, ident_spam: 60, cor_ident_spam: 55
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part5', 'part6', 'part7', 'part9']
+Test Set: part8
+Testing στον Φάκελο: part8,
+total_test_spam_doc: 57, ident_spam: 55, cor_ident_spam: 55
+
+Training Set: ['part1', 'part10', 'part2', 'part3', 'part4', 'part5', 'part6', 'part7', 'part8']
+Test Set: part9
+Testing στον Φάκελο: part9,
+total_test_spam_doc: 57, ident_spam: 55, cor_ident_spam: 54
+
+----------------------------------------------
+Για τον Φάκελο: pua
+Spam_recall: 94.56
+Spam_precision: 97.22
+
+----------------------------------------------
+

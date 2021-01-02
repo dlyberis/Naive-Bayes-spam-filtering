@@ -125,8 +125,8 @@ function_options.grid(row=0, column=0, sticky="nsew")
 program_options.grid(row=1, column=0, sticky="nsew")
 txt_edit.grid(row=2, column=0, sticky="nsew")
 
-# scrollbar.grid(row=2, column=1, sticky='nsew')
-# bottomBar.grid(row=3, column=0, sticky="nsew")
+scrollbar.grid(row=2, column=1, sticky='nsew')
+bottomBar.grid(row=3, column=0, sticky="nsew")
 
 window.geometry("850x500")
 window.mainloop()
